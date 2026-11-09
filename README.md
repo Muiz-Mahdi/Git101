@@ -48,4 +48,4 @@ Verify everything: `git --version` · `node --version` · `npm --version` — al
 Add a line below with your name and one sentence on why you're here. Keep it to one line.
 
 - Iman — teaching Git so AI can write the code in peace.
-- Muiz - Student learning how to vibe code using AI
+- Muiz - Student learn how to vibe code using AI
